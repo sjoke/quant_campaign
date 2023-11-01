@@ -23,6 +23,7 @@ class TcpClient:
         self.connect_change_fun = fun
 
     def onConected(self,status):
+        # print("=====> onConected")
         if(self.connect_change_fun):
             self.connect_change_fun(status)
 
