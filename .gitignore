@@ -3,3 +3,5 @@ hklh_quote_api_py.tar.gz
 quant_local.ipynb
 csi500_20220901_20230901.csv
 origin_data
+__pycache__
+hklh_quote_api_py.tar
