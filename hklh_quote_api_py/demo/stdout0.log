@@ -1,0 +1,474 @@
+2023-11-03 13:14:00.349 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131400, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.325699152542374, 'money': 6761730000, 'volume': 47200}
+2023-11-03 13:14:00.349 INFO quote_impl.py:40: decison: code: 600985.SH, op:-1, pred_y:0.08494396154930428
+2023-11-03 13:14:00.349 INFO quote_impl.py:48: sell: 600985.SH
+2023-11-03 13:14:01.277 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131400, 'open_price': 22.02, 'high_price': 22.02, 'low_price': 22.02, 'close_price': 22.02, 'vwap': 22.03870106761566, 'money': 12385750000, 'volume': 56200}
+2023-11-03 13:14:01.277 INFO quote_impl.py:40: decison: code: 601136.SH, op:-1, pred_y:0.2884387246376644
+2023-11-03 13:14:01.277 INFO quote_impl.py:48: sell: 601136.SH
+2023-11-03 13:14:01.376 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131400, 'open_price': 32.37, 'high_price': 32.37, 'low_price': 32.37, 'close_price': 32.37, 'vwap': 32.35155223880597, 'money': 10837770000, 'volume': 33500}
+2023-11-03 13:14:01.376 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0.6846450336068698
+2023-11-03 13:14:02.004 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131400, 'open_price': 156.53, 'high_price': 156.53, 'low_price': 156.53, 'close_price': 156.53, 'vwap': 156.61412651589643, 'money': 4778297000, 'volume': 3051}
+2023-11-03 13:14:02.005 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.6363989599894694
+2023-11-03 13:15:01.274 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131500, 'open_price': 22.0, 'high_price': 22.0, 'low_price': 22.0, 'close_price': 22.0, 'vwap': 22.002818719741796, 'money': 10225810000, 'volume': 46475}
+2023-11-03 13:15:01.274 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:15:01.365 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131500, 'open_price': 32.37, 'high_price': 32.37, 'low_price': 32.37, 'close_price': 32.37, 'vwap': 32.374347826086954, 'money': 744610000, 'volume': 2300}
+2023-11-03 13:15:01.365 INFO quote_impl.py:40: decison: code: 002294.SZ, op:1, pred_y:0.9982676094195302
+2023-11-03 13:15:01.365 INFO quote_impl.py:43: buy: 002294.SZ
+2023-11-03 13:15:01.986 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131500, 'open_price': 156.69, 'high_price': 156.69, 'low_price': 156.69, 'close_price': 156.69, 'vwap': 156.53503759398495, 'money': 6870322800, 'volume': 4389}
+2023-11-03 13:15:01.986 INFO quote_impl.py:40: decison: code: 688536.SH, op:1, pred_y:0.8493031715310638
+2023-11-03 13:15:01.986 INFO quote_impl.py:43: buy: 688536.SH
+2023-11-03 13:15:03.349 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131500, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.319679999999998, 'money': 5369880000, 'volume': 37500}
+2023-11-03 13:15:03.349 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:16:00.431 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131600, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.310284775465497, 'money': 26130580000, 'volume': 182600}
+2023-11-03 13:16:00.431 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:16:01.375 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131600, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.973615384615385, 'money': 11426280000, 'volume': 52000}
+2023-11-03 13:16:01.375 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:16:01.387 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131600, 'open_price': 32.36, 'high_price': 32.36, 'low_price': 32.36, 'close_price': 32.36, 'vwap': 32.35071428571428, 'money': 905820000, 'volume': 2800}
+2023-11-03 13:16:01.387 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:16:02.029 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131600, 'open_price': 156.71, 'high_price': 156.71, 'low_price': 156.71, 'close_price': 156.71, 'vwap': 156.66591117917304, 'money': 4092113600, 'volume': 2612}
+2023-11-03 13:16:02.029 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:17:00.353 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131700, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.318761061946903, 'money': 4854060000, 'volume': 33900}
+2023-11-03 13:17:00.353 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:17:01.269 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131700, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.966042780748666, 'money': 4107650000, 'volume': 18700}
+2023-11-03 13:17:01.269 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:17:01.987 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131700, 'open_price': 156.96, 'high_price': 156.96, 'low_price': 156.96, 'close_price': 156.96, 'vwap': 156.80609375, 'money': 2508897500, 'volume': 1600}
+2023-11-03 13:17:01.988 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:17:04.417 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131700, 'open_price': 32.37, 'high_price': 32.37, 'low_price': 32.37, 'close_price': 32.37, 'vwap': 32.367333333333335, 'money': 971020000, 'volume': 3000}
+2023-11-03 13:17:04.417 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:18:00.351 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131800, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.314484848484849, 'money': 2361890000, 'volume': 16500}
+2023-11-03 13:18:00.351 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:18:01.271 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131800, 'open_price': 21.98, 'high_price': 21.98, 'low_price': 21.98, 'close_price': 21.98, 'vwap': 21.96148051948052, 'money': 16910340000, 'volume': 77000}
+2023-11-03 13:18:01.271 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:18:01.387 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131800, 'open_price': 32.37, 'high_price': 32.37, 'low_price': 32.37, 'close_price': 32.37, 'vwap': 32.37, 'money': 323700000, 'volume': 1000}
+2023-11-03 13:18:01.387 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:18:02.001 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131800, 'open_price': 156.71, 'high_price': 156.71, 'low_price': 156.71, 'close_price': 156.71, 'vwap': 156.8307, 'money': 4548090300, 'volume': 2900}
+2023-11-03 13:18:02.001 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:19:00.351 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 131900, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.313541666666666, 'money': 1374100000, 'volume': 9600}
+2023-11-03 13:19:00.351 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:19:01.322 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 131900, 'open_price': 22.01, 'high_price': 22.01, 'low_price': 22.01, 'close_price': 22.01, 'vwap': 22.01025305410122, 'money': 12611875000, 'volume': 57300}
+2023-11-03 13:19:01.322 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:19:01.375 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 131900, 'open_price': 32.36, 'high_price': 32.36, 'low_price': 32.36, 'close_price': 32.36, 'vwap': 32.35623188405797, 'money': 2232580000, 'volume': 6900}
+2023-11-03 13:19:01.375 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:19:02.045 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 131900, 'open_price': 157.17, 'high_price': 157.17, 'low_price': 157.17, 'close_price': 157.17, 'vwap': 156.9961762034514, 'money': 3457055800, 'volume': 2202}
+2023-11-03 13:19:02.045 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:20:00.373 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132000, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.31489932885906, 'money': 4265840000, 'volume': 29800}
+2023-11-03 13:20:00.373 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:20:01.383 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132000, 'open_price': 32.37, 'high_price': 32.37, 'low_price': 32.37, 'close_price': 32.37, 'vwap': 32.36375, 'money': 517820000, 'volume': 1600}
+2023-11-03 13:20:01.383 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:20:01.517 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132000, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.982788461538462, 'money': 4572420000, 'volume': 20800}
+2023-11-03 13:20:01.517 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:20:01.989 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132000, 'open_price': 157.16, 'high_price': 157.16, 'low_price': 157.16, 'close_price': 157.16, 'vwap': 157.0800148148148, 'money': 6361740600, 'volume': 4050}
+2023-11-03 13:20:01.989 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:21:00.364 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132100, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.309191176470588, 'money': 3892100000, 'volume': 27200}
+2023-11-03 13:21:00.364 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:21:01.381 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132100, 'open_price': 32.4, 'high_price': 32.4, 'low_price': 32.4, 'close_price': 32.4, 'vwap': 32.387122641509436, 'money': 6866070000, 'volume': 21200}
+2023-11-03 13:21:01.382 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:21:01.529 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132100, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.972465753424657, 'money': 6415960000, 'volume': 29200}
+2023-11-03 13:21:01.530 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:21:02.271 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132100, 'open_price': 157.08, 'high_price': 157.08, 'low_price': 157.08, 'close_price': 157.08, 'vwap': 156.84302325581396, 'money': 6744250000, 'volume': 4300}
+2023-11-03 13:21:02.271 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:22:00.344 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132200, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.3090273556231, 'money': 4707670000, 'volume': 32900}
+2023-11-03 13:22:00.344 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:22:01.293 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132200, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.9659375, 'money': 7732010000, 'volume': 35200}
+2023-11-03 13:22:01.293 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:22:02.018 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132200, 'open_price': 156.81, 'high_price': 156.81, 'low_price': 156.81, 'close_price': 156.81, 'vwap': 156.88133333333332, 'money': 2353220000, 'volume': 1500}
+2023-11-03 13:22:02.018 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:22:04.407 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132200, 'open_price': 32.43, 'high_price': 32.43, 'low_price': 32.43, 'close_price': 32.43, 'vwap': 32.41389830508475, 'money': 3824840000, 'volume': 11800}
+2023-11-03 13:22:04.407 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:23:00.345 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132300, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.316223175965666, 'money': 3335680000, 'volume': 23300}
+2023-11-03 13:23:00.345 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:23:01.311 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132300, 'open_price': 22.0, 'high_price': 22.0, 'low_price': 22.0, 'close_price': 22.0, 'vwap': 21.982242424242425, 'money': 3627070000, 'volume': 16500}
+2023-11-03 13:23:01.311 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:23:01.985 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132300, 'open_price': 157.13, 'high_price': 157.13, 'low_price': 157.13, 'close_price': 157.13, 'vwap': 156.93533147243545, 'money': 4497766600, 'volume': 2866}
+2023-11-03 13:23:01.985 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:23:04.410 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132300, 'open_price': 32.45, 'high_price': 32.45, 'low_price': 32.45, 'close_price': 32.45, 'vwap': 32.44169398907104, 'money': 5936830000, 'volume': 18300}
+2023-11-03 13:23:04.410 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:24:00.355 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132400, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.307517899761338, 'money': 5994850000, 'volume': 41900}
+2023-11-03 13:24:00.355 INFO quote_impl.py:40: decison: code: 600985.SH, op:1, pred_y:0
+2023-11-03 13:24:00.355 INFO quote_impl.py:43: buy: 600985.SH
+2023-11-03 13:24:01.275 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132400, 'open_price': 21.99, 'high_price': 21.99, 'low_price': 21.99, 'close_price': 21.99, 'vwap': 21.991323529411765, 'money': 1495410000, 'volume': 6800}
+2023-11-03 13:24:01.275 INFO quote_impl.py:40: decison: code: 601136.SH, op:1, pred_y:0
+2023-11-03 13:24:01.275 INFO quote_impl.py:43: buy: 601136.SH
+2023-11-03 13:24:01.988 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132400, 'open_price': 157.67, 'high_price': 157.67, 'low_price': 157.67, 'close_price': 157.67, 'vwap': 157.3242162162162, 'money': 8731494000, 'volume': 5550}
+2023-11-03 13:24:01.988 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:24:04.420 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132400, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.47008547008547, 'money': 7598000000, 'volume': 23400}
+2023-11-03 13:24:04.420 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:25:00.343 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132500, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.31065934065934, 'money': 2604540000, 'volume': 18200}
+2023-11-03 13:25:00.343 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0.6695199307564977
+2023-11-03 13:25:01.269 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132500, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.974708171206228, 'money': 5647500000, 'volume': 25700}
+2023-11-03 13:25:01.269 INFO quote_impl.py:40: decison: code: 601136.SH, op:1, pred_y:0.8363356068664255
+2023-11-03 13:25:01.269 INFO quote_impl.py:43: buy: 601136.SH
+2023-11-03 13:25:01.365 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132500, 'open_price': 32.5, 'high_price': 32.5, 'low_price': 32.5, 'close_price': 32.5, 'vwap': 32.490776255707765, 'money': 7115480000, 'volume': 21900}
+2023-11-03 13:25:01.365 INFO quote_impl.py:40: decison: code: 002294.SZ, op:-1, pred_y:0
+2023-11-03 13:25:01.365 INFO quote_impl.py:48: sell: 002294.SZ
+2023-11-03 13:25:01.989 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132500, 'open_price': 157.7, 'high_price': 157.7, 'low_price': 157.7, 'close_price': 157.7, 'vwap': 157.71064285714286, 'money': 2207949000, 'volume': 1400}
+2023-11-03 13:25:01.989 INFO quote_impl.py:40: decison: code: 688536.SH, op:-1, pred_y:0
+2023-11-03 13:25:01.989 INFO quote_impl.py:48: sell: 688536.SH
+2023-11-03 13:26:00.350 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132600, 'open_price': 14.33, 'high_price': 14.33, 'low_price': 14.33, 'close_price': 14.33, 'vwap': 14.325272952853597, 'money': 11546170000, 'volume': 80600}
+2023-11-03 13:26:00.350 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0.6973758907733988
+2023-11-03 13:26:01.291 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132600, 'open_price': 21.96, 'high_price': 21.96, 'low_price': 21.96, 'close_price': 21.96, 'vwap': 21.962631578947367, 'money': 7928510000, 'volume': 36100}
+2023-11-03 13:26:01.291 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:26:01.366 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132600, 'open_price': 32.55, 'high_price': 32.55, 'low_price': 32.55, 'close_price': 32.55, 'vwap': 32.523114241001565, 'money': 20782270000, 'volume': 63900}
+2023-11-03 13:26:01.366 INFO quote_impl.py:40: decison: code: 002294.SZ, op:1, pred_y:0.7640180702352586
+2023-11-03 13:26:01.366 INFO quote_impl.py:43: buy: 002294.SZ
+2023-11-03 13:26:02.068 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132600, 'open_price': 157.69, 'high_price': 157.69, 'low_price': 157.69, 'close_price': 157.69, 'vwap': 157.63445600166423, 'money': 7577488300, 'volume': 4807}
+2023-11-03 13:26:02.068 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.5654060700885527
+2023-11-03 13:27:00.347 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132700, 'open_price': 14.35, 'high_price': 14.35, 'low_price': 14.35, 'close_price': 14.35, 'vwap': 14.339494949494949, 'money': 2839220000, 'volume': 19800}
+2023-11-03 13:27:00.347 INFO quote_impl.py:40: decison: code: 600985.SH, op:-1, pred_y:0.15563135607708123
+2023-11-03 13:27:00.347 INFO quote_impl.py:48: sell: 600985.SH
+2023-11-03 13:27:01.284 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132700, 'open_price': 21.96, 'high_price': 21.96, 'low_price': 21.96, 'close_price': 21.96, 'vwap': 21.965361050328227, 'money': 10038170000, 'volume': 45700}
+2023-11-03 13:27:01.284 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:27:01.997 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132700, 'open_price': 157.98, 'high_price': 157.98, 'low_price': 157.98, 'close_price': 157.98, 'vwap': 157.84017950098726, 'money': 17586552800, 'volume': 11142}
+2023-11-03 13:27:01.997 INFO quote_impl.py:40: decison: code: 688536.SH, op:1, pred_y:0.8507737956594499
+2023-11-03 13:27:01.997 INFO quote_impl.py:43: buy: 688536.SH
+2023-11-03 13:27:04.407 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132700, 'open_price': 32.56, 'high_price': 32.56, 'low_price': 32.56, 'close_price': 32.56, 'vwap': 32.55148760330579, 'money': 3938730000, 'volume': 12100}
+2023-11-03 13:27:04.407 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:28:00.381 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132800, 'open_price': 14.34, 'high_price': 14.34, 'low_price': 14.34, 'close_price': 14.34, 'vwap': 14.34032258064516, 'money': 889100000, 'volume': 6200}
+2023-11-03 13:28:00.381 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:28:01.287 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132800, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.95904028436019, 'money': 18533430000, 'volume': 84400}
+2023-11-03 13:28:01.287 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:28:01.405 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132800, 'open_price': 32.54, 'high_price': 32.54, 'low_price': 32.54, 'close_price': 32.54, 'vwap': 32.547428571428576, 'money': 9113280000, 'volume': 28000}
+2023-11-03 13:28:01.405 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:28:02.086 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132800, 'open_price': 158.0, 'high_price': 158.0, 'low_price': 158.0, 'close_price': 158.0, 'vwap': 158.08719305413686, 'money': 7738368100, 'volume': 4895}
+2023-11-03 13:28:02.086 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:29:00.424 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 132900, 'open_price': 14.33, 'high_price': 14.33, 'low_price': 14.33, 'close_price': 14.33, 'vwap': 14.328396349413298, 'money': 10989880000, 'volume': 76700}
+2023-11-03 13:29:00.424 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:29:01.357 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 132900, 'open_price': 32.6, 'high_price': 32.6, 'low_price': 32.6, 'close_price': 32.6, 'vwap': 32.57897058823529, 'money': 15507590000, 'volume': 47600}
+2023-11-03 13:29:01.357 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:29:01.524 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 132900, 'open_price': 21.96, 'high_price': 21.96, 'low_price': 21.96, 'close_price': 21.96, 'vwap': 21.965805243445693, 'money': 5864870000, 'volume': 26700}
+2023-11-03 13:29:01.524 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:29:01.991 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 132900, 'open_price': 158.01, 'high_price': 158.01, 'low_price': 158.01, 'close_price': 158.01, 'vwap': 158.0196896551724, 'money': 4582571000, 'volume': 2900}
+2023-11-03 13:29:01.991 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:30:00.364 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133000, 'open_price': 14.34, 'high_price': 14.34, 'low_price': 14.34, 'close_price': 14.34, 'vwap': 14.333778801843318, 'money': 6220860000, 'volume': 43400}
+2023-11-03 13:30:00.364 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:30:01.283 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133000, 'open_price': 21.95, 'high_price': 21.95, 'low_price': 21.95, 'close_price': 21.95, 'vwap': 21.957877237851662, 'money': 8585530000, 'volume': 39100}
+2023-11-03 13:30:01.283 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:30:01.400 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133000, 'open_price': 32.57, 'high_price': 32.57, 'low_price': 32.57, 'close_price': 32.57, 'vwap': 32.59410256410256, 'money': 5084680000, 'volume': 15600}
+2023-11-03 13:30:01.400 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:30:01.996 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133000, 'open_price': 158.6, 'high_price': 158.6, 'low_price': 158.6, 'close_price': 158.6, 'vwap': 158.20210383858267, 'money': 32146667500, 'volume': 20320}
+2023-11-03 13:30:01.996 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:31:00.350 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133100, 'open_price': 14.34, 'high_price': 14.34, 'low_price': 14.34, 'close_price': 14.34, 'vwap': 14.338305785123966, 'money': 3469870000, 'volume': 24200}
+2023-11-03 13:31:00.350 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:31:01.377 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133100, 'open_price': 32.55, 'high_price': 32.55, 'low_price': 32.55, 'close_price': 32.55, 'vwap': 32.58667721518987, 'money': 10297390000, 'volume': 31600}
+2023-11-03 13:31:01.377 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:31:01.493 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133100, 'open_price': 21.98, 'high_price': 21.98, 'low_price': 21.98, 'close_price': 21.98, 'vwap': 21.961027131782945, 'money': 11331890000, 'volume': 51600}
+2023-11-03 13:31:01.493 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:31:01.992 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133100, 'open_price': 159.49, 'high_price': 159.49, 'low_price': 159.49, 'close_price': 159.49, 'vwap': 158.91570330771802, 'money': 23781735000, 'volume': 14965}
+2023-11-03 13:31:01.992 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:32:00.411 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133200, 'open_price': 14.35, 'high_price': 14.35, 'low_price': 14.35, 'close_price': 14.35, 'vwap': 14.336191570881228, 'money': 18708730000, 'volume': 130500}
+2023-11-03 13:32:00.411 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:32:01.309 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133200, 'open_price': 21.98, 'high_price': 21.98, 'low_price': 21.98, 'close_price': 21.98, 'vwap': 21.975019607843137, 'money': 5603630000, 'volume': 25500}
+2023-11-03 13:32:01.309 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:32:01.411 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133200, 'open_price': 32.46, 'high_price': 32.46, 'low_price': 32.46, 'close_price': 32.46, 'vwap': 32.50894736842105, 'money': 617670000, 'volume': 1900}
+2023-11-03 13:32:01.412 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:32:01.987 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133200, 'open_price': 158.97, 'high_price': 158.97, 'low_price': 158.97, 'close_price': 158.97, 'vwap': 159.0275652173913, 'money': 23225975900, 'volume': 14605}
+2023-11-03 13:32:01.987 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:33:00.346 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133300, 'open_price': 14.33, 'high_price': 14.33, 'low_price': 14.33, 'close_price': 14.33, 'vwap': 14.339102564102566, 'money': 3355350000, 'volume': 23400}
+2023-11-03 13:33:00.346 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:33:01.274 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133300, 'open_price': 22.01, 'high_price': 22.01, 'low_price': 22.01, 'close_price': 22.01, 'vwap': 22.002286541244573, 'money': 15203580000, 'volume': 69100}
+2023-11-03 13:33:01.274 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:33:02.002 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133300, 'open_price': 158.71, 'high_price': 158.71, 'low_price': 158.71, 'close_price': 158.71, 'vwap': 158.84795023696682, 'money': 2681353400, 'volume': 1688}
+2023-11-03 13:33:02.002 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:33:13.412 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133300, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.464, 'money': 486960000, 'volume': 1500}
+2023-11-03 13:33:13.412 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:34:00.353 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133400, 'open_price': 14.33, 'high_price': 14.33, 'low_price': 14.33, 'close_price': 14.33, 'vwap': 14.328924302788844, 'money': 3596560000, 'volume': 25100}
+2023-11-03 13:34:00.353 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:34:01.302 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133400, 'open_price': 22.02, 'high_price': 22.02, 'low_price': 22.02, 'close_price': 22.02, 'vwap': 22.012314049586777, 'money': 13983322500, 'volume': 63525}
+2023-11-03 13:34:01.302 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:34:02.021 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133400, 'open_price': 159.36, 'high_price': 159.36, 'low_price': 159.36, 'close_price': 159.36, 'vwap': 158.9672050651362, 'money': 17449830100, 'volume': 10977}
+2023-11-03 13:34:02.021 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:34:16.381 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133400, 'open_price': 32.48, 'high_price': 32.48, 'low_price': 32.48, 'close_price': 32.48, 'vwap': 32.473636363636366, 'money': 357210000, 'volume': 1100}
+2023-11-03 13:34:16.381 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:35:00.362 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133500, 'open_price': 14.33, 'high_price': 14.33, 'low_price': 14.33, 'close_price': 14.33, 'vwap': 14.317435691318328, 'money': 17810890000, 'volume': 124400}
+2023-11-03 13:35:00.362 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:35:01.526 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133500, 'open_price': 22.04, 'high_price': 22.04, 'low_price': 22.04, 'close_price': 22.04, 'vwap': 22.02763440860215, 'money': 6145710000, 'volume': 27900}
+2023-11-03 13:35:01.527 INFO quote_impl.py:40: decison: code: 601136.SH, op:-1, pred_y:0
+2023-11-03 13:35:01.527 INFO quote_impl.py:48: sell: 601136.SH
+2023-11-03 13:35:02.331 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133500, 'open_price': 159.49, 'high_price': 159.49, 'low_price': 159.49, 'close_price': 159.49, 'vwap': 159.4435898241206, 'money': 5076683900, 'volume': 3184}
+2023-11-03 13:35:02.331 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:35:07.443 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133500, 'open_price': 32.49, 'high_price': 32.49, 'low_price': 32.49, 'close_price': 32.49, 'vwap': 32.495, 'money': 129980000, 'volume': 400}
+2023-11-03 13:35:07.443 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:36:00.398 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133600, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.317579214195183, 'money': 11296570000, 'volume': 78900}
+2023-11-03 13:36:00.398 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:36:01.336 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133600, 'open_price': 22.03, 'high_price': 22.03, 'low_price': 22.03, 'close_price': 22.03, 'vwap': 22.04158620689655, 'money': 12784120000, 'volume': 58000}
+2023-11-03 13:36:01.336 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0.47293982524440836
+2023-11-03 13:36:01.404 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133600, 'open_price': 32.49, 'high_price': 32.49, 'low_price': 32.49, 'close_price': 32.49, 'vwap': 32.49478260869565, 'money': 747380000, 'volume': 2300}
+2023-11-03 13:36:01.404 INFO quote_impl.py:40: decison: code: 002294.SZ, op:-1, pred_y:0
+2023-11-03 13:36:01.404 INFO quote_impl.py:48: sell: 002294.SZ
+2023-11-03 13:36:01.994 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133600, 'open_price': 159.64, 'high_price': 159.64, 'low_price': 159.64, 'close_price': 159.64, 'vwap': 159.70827289286305, 'money': 19289565200, 'volume': 12078}
+2023-11-03 13:36:01.994 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:37:00.375 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133700, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.310655737704918, 'money': 5237700000, 'volume': 36600}
+2023-11-03 13:37:00.375 INFO quote_impl.py:40: decison: code: 600985.SH, op:1, pred_y:0
+2023-11-03 13:37:00.375 INFO quote_impl.py:43: buy: 600985.SH
+2023-11-03 13:37:01.280 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133700, 'open_price': 21.99, 'high_price': 21.99, 'low_price': 21.99, 'close_price': 21.99, 'vwap': 22.00813524590164, 'money': 10739970000, 'volume': 48800}
+2023-11-03 13:37:01.280 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0.37922752283769023
+2023-11-03 13:37:01.993 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133700, 'open_price': 159.88, 'high_price': 159.88, 'low_price': 159.88, 'close_price': 159.88, 'vwap': 159.71072302298404, 'money': 20498871300, 'volume': 12835}
+2023-11-03 13:37:01.993 INFO quote_impl.py:40: decison: code: 688536.SH, op:-1, pred_y:0
+2023-11-03 13:37:01.993 INFO quote_impl.py:48: sell: 688536.SH
+2023-11-03 13:37:07.423 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133700, 'open_price': 32.48, 'high_price': 32.48, 'low_price': 32.48, 'close_price': 32.48, 'vwap': 32.48714285714286, 'money': 682230000, 'volume': 2100}
+2023-11-03 13:37:07.423 INFO quote_impl.py:40: decison: code: 002294.SZ, op:1, pred_y:0.8385304413387517
+2023-11-03 13:37:07.423 INFO quote_impl.py:43: buy: 002294.SZ
+2023-11-03 13:38:00.354 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133800, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.312797202797203, 'money': 4093460000, 'volume': 28600}
+2023-11-03 13:38:00.355 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0.4816845716955718
+2023-11-03 13:38:01.526 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133800, 'open_price': 21.98, 'high_price': 21.98, 'low_price': 21.98, 'close_price': 21.98, 'vwap': 21.981569086651053, 'money': 9386130000, 'volume': 42700}
+2023-11-03 13:38:01.526 INFO quote_impl.py:40: decison: code: 601136.SH, op:-1, pred_y:0.06537888648834533
+2023-11-03 13:38:01.526 INFO quote_impl.py:48: sell: 601136.SH
+2023-11-03 13:38:01.988 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133800, 'open_price': 160.71, 'high_price': 160.71, 'low_price': 160.71, 'close_price': 160.71, 'vwap': 160.1566303381823, 'money': 34239886000, 'volume': 21379}
+2023-11-03 13:38:01.988 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.6578551568181153
+2023-11-03 13:38:04.447 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133800, 'open_price': 32.52, 'high_price': 32.52, 'low_price': 32.52, 'close_price': 32.52, 'vwap': 32.494285714285716, 'money': 1819680000, 'volume': 5600}
+2023-11-03 13:38:04.447 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:39:00.413 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 133900, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.303526570048309, 'money': 2960830000, 'volume': 20700}
+2023-11-03 13:39:00.413 INFO quote_impl.py:40: decison: code: 600985.SH, op:-1, pred_y:0.2779513418802051
+2023-11-03 13:39:00.413 INFO quote_impl.py:48: sell: 600985.SH
+2023-11-03 13:39:01.301 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 133900, 'open_price': 21.96, 'high_price': 21.96, 'low_price': 21.96, 'close_price': 21.96, 'vwap': 21.9737969924812, 'money': 11690060000, 'volume': 53200}
+2023-11-03 13:39:01.301 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:39:01.410 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 133900, 'open_price': 32.5, 'high_price': 32.5, 'low_price': 32.5, 'close_price': 32.5, 'vwap': 32.51, 'money': 1592990000, 'volume': 4900}
+2023-11-03 13:39:01.410 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:39:02.031 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 133900, 'open_price': 159.67, 'high_price': 159.67, 'low_price': 159.67, 'close_price': 159.67, 'vwap': 160.0840079760718, 'money': 14450783400, 'volume': 9027}
+2023-11-03 13:39:02.031 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.6316419986023435
+2023-11-03 13:40:00.418 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134000, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.309238329238328, 'money': 5823860000, 'volume': 40700}
+2023-11-03 13:40:00.418 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:40:01.328 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134000, 'open_price': 21.98, 'high_price': 21.98, 'low_price': 21.98, 'close_price': 21.98, 'vwap': 21.96810055865922, 'money': 7864580000, 'volume': 35800}
+2023-11-03 13:40:01.328 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:40:01.990 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134000, 'open_price': 159.62, 'high_price': 159.62, 'low_price': 159.62, 'close_price': 159.62, 'vwap': 159.71637008381688, 'money': 4954401800, 'volume': 3102}
+2023-11-03 13:40:01.990 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.3220087189366587
+2023-11-03 13:40:04.435 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134000, 'open_price': 32.5, 'high_price': 32.5, 'low_price': 32.5, 'close_price': 32.5, 'vwap': 32.50125, 'money': 520020000, 'volume': 1600}
+2023-11-03 13:40:04.435 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:41:00.634 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134100, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.313315508021391, 'money': 5353180000, 'volume': 37400}
+2023-11-03 13:41:00.634 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:41:01.279 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134100, 'open_price': 21.97, 'high_price': 21.97, 'low_price': 21.97, 'close_price': 21.97, 'vwap': 21.97283276450512, 'money': 6438040000, 'volume': 29300}
+2023-11-03 13:41:01.279 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:41:01.409 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134100, 'open_price': 32.52, 'high_price': 32.52, 'low_price': 32.52, 'close_price': 32.52, 'vwap': 32.5035, 'money': 650070000, 'volume': 2000}
+2023-11-03 13:41:01.410 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:41:01.994 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134100, 'open_price': 160.27, 'high_price': 160.27, 'low_price': 160.27, 'close_price': 160.27, 'vwap': 159.85963386110112, 'money': 17769996900, 'volume': 11116}
+2023-11-03 13:41:01.994 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.3778093176689563
+2023-11-03 13:42:00.358 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134200, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.314790419161678, 'money': 2390570000, 'volume': 16700}
+2023-11-03 13:42:00.358 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:42:01.400 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134200, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.510555555555555, 'money': 1170380000, 'volume': 3600}
+2023-11-03 13:42:01.400 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:42:01.552 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134200, 'open_price': 21.94, 'high_price': 21.94, 'low_price': 21.94, 'close_price': 21.94, 'vwap': 21.956401446654613, 'money': 12141890000, 'volume': 55300}
+2023-11-03 13:42:01.552 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:42:02.027 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134200, 'open_price': 159.29, 'high_price': 159.29, 'low_price': 159.29, 'close_price': 159.29, 'vwap': 159.6454685247477, 'money': 13288888800, 'volume': 8324}
+2023-11-03 13:42:02.028 INFO quote_impl.py:40: decison: code: 688536.SH, op:-1, pred_y:0.2202820348564447
+2023-11-03 13:42:02.028 INFO quote_impl.py:48: sell: 688536.SH
+2023-11-03 13:43:01.408 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134300, 'open_price': 32.49, 'high_price': 32.49, 'low_price': 32.49, 'close_price': 32.49, 'vwap': 32.48170731707317, 'money': 1331750000, 'volume': 4100}
+2023-11-03 13:43:01.408 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:43:01.606 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134300, 'open_price': 21.95, 'high_price': 21.95, 'low_price': 21.95, 'close_price': 21.95, 'vwap': 21.939477040816325, 'money': 17200550000, 'volume': 78400}
+2023-11-03 13:43:01.606 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:43:02.001 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134300, 'open_price': 159.8, 'high_price': 159.8, 'low_price': 159.8, 'close_price': 159.8, 'vwap': 159.49418606480026, 'money': 20281280700, 'volume': 12716}
+2023-11-03 13:43:02.001 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:43:09.382 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134300, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.31632258064516, 'money': 2219030000, 'volume': 15500}
+2023-11-03 13:43:09.382 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:44:00.354 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134400, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.311931818181817, 'money': 2518900000, 'volume': 17600}
+2023-11-03 13:44:00.354 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:44:01.269 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134400, 'open_price': 21.93, 'high_price': 21.93, 'low_price': 21.93, 'close_price': 21.93, 'vwap': 21.937637130801686, 'money': 15597660000, 'volume': 71100}
+2023-11-03 13:44:01.269 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:44:02.000 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134400, 'open_price': 159.76, 'high_price': 159.76, 'low_price': 159.76, 'close_price': 159.76, 'vwap': 159.70600301659127, 'money': 6353104800, 'volume': 3978}
+2023-11-03 13:44:02.000 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:44:04.435 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134400, 'open_price': 32.51, 'high_price': 32.51, 'low_price': 32.51, 'close_price': 32.51, 'vwap': 32.504444444444445, 'money': 292540000, 'volume': 900}
+2023-11-03 13:44:04.435 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:45:00.405 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134500, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.313388888888888, 'money': 2576410000, 'volume': 18000}
+2023-11-03 13:45:00.405 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:45:01.311 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134500, 'open_price': 21.91, 'high_price': 21.91, 'low_price': 21.91, 'close_price': 21.91, 'vwap': 21.917943455212722, 'money': 16125031000, 'volume': 73570}
+2023-11-03 13:45:01.311 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:45:01.399 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134500, 'open_price': 32.5, 'high_price': 32.5, 'low_price': 32.5, 'close_price': 32.5, 'vwap': 32.51127659574468, 'money': 1528030000, 'volume': 4700}
+2023-11-03 13:45:01.399 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:45:02.092 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134500, 'open_price': 159.45, 'high_price': 159.45, 'low_price': 159.45, 'close_price': 159.45, 'vwap': 159.43823920682732, 'money': 12704038900, 'volume': 7968}
+2023-11-03 13:45:02.093 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:46:00.349 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134600, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.3097461928934, 'money': 2819020000, 'volume': 19700}
+2023-11-03 13:46:00.349 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:46:01.282 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134600, 'open_price': 21.92, 'high_price': 21.92, 'low_price': 21.92, 'close_price': 21.92, 'vwap': 21.91027777777778, 'money': 13409090000, 'volume': 61200}
+2023-11-03 13:46:01.282 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:46:02.059 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134600, 'open_price': 159.0, 'high_price': 159.0, 'low_price': 159.0, 'close_price': 159.0, 'vwap': 159.0653333333333, 'money': 9543920000, 'volume': 6000}
+2023-11-03 13:46:02.059 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:46:16.413 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134600, 'open_price': 32.46, 'high_price': 32.46, 'low_price': 32.46, 'close_price': 32.46, 'vwap': 32.48866666666667, 'money': 1461990000, 'volume': 4500}
+2023-11-03 13:46:16.413 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:47:00.349 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134700, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.313095238095237, 'money': 1202300000, 'volume': 8400}
+2023-11-03 13:47:00.349 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:47:01.324 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134700, 'open_price': 21.9, 'high_price': 21.9, 'low_price': 21.9, 'close_price': 21.9, 'vwap': 21.904791946308727, 'money': 32638140000, 'volume': 149000}
+2023-11-03 13:47:01.324 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:47:01.381 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134700, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.469166666666666, 'money': 389630000, 'volume': 1200}
+2023-11-03 13:47:01.381 INFO quote_impl.py:40: decison: code: 002294.SZ, op:-1, pred_y:0
+2023-11-03 13:47:01.381 INFO quote_impl.py:48: sell: 002294.SZ
+2023-11-03 13:47:01.997 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134700, 'open_price': 158.85, 'high_price': 158.85, 'low_price': 158.85, 'close_price': 158.85, 'vwap': 159.02413390010628, 'money': 8978502600, 'volume': 5646}
+2023-11-03 13:47:01.997 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:48:00.355 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134800, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.312301255230125, 'money': 3420640000, 'volume': 23900}
+2023-11-03 13:48:00.355 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:48:01.274 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134800, 'open_price': 21.9, 'high_price': 21.9, 'low_price': 21.9, 'close_price': 21.9, 'vwap': 21.90046640755136, 'money': 39442740000, 'volume': 180100}
+2023-11-03 13:48:01.275 INFO quote_impl.py:40: decison: code: 601136.SH, op:1, pred_y:0
+2023-11-03 13:48:01.275 INFO quote_impl.py:43: buy: 601136.SH
+2023-11-03 13:48:01.387 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134800, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.46344086021506, 'money': 3019100000, 'volume': 9300}
+2023-11-03 13:48:01.387 INFO quote_impl.py:40: decison: code: 002294.SZ, op:-1, pred_y:0.16852842559961922
+2023-11-03 13:48:01.387 INFO quote_impl.py:48: sell: 002294.SZ
+2023-11-03 13:48:01.984 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134800, 'open_price': 158.86, 'high_price': 158.86, 'low_price': 158.86, 'close_price': 158.86, 'vwap': 158.86897867564534, 'money': 4246567800, 'volume': 2673}
+2023-11-03 13:48:01.985 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:49:01.273 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 134900, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.890133333333335, 'money': 16417600000, 'volume': 75000}
+2023-11-03 13:49:01.273 INFO quote_impl.py:40: decison: code: 601136.SH, op:-1, pred_y:0.05093283911895141
+2023-11-03 13:49:01.273 INFO quote_impl.py:48: sell: 601136.SH
+2023-11-03 13:49:01.398 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 134900, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.47, 'money': 292230000, 'volume': 900}
+2023-11-03 13:49:01.398 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:49:02.013 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 134900, 'open_price': 158.85, 'high_price': 158.85, 'low_price': 158.85, 'close_price': 158.85, 'vwap': 158.8774, 'money': 3495302800, 'volume': 2200}
+2023-11-03 13:49:02.013 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:49:03.353 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 134900, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.318720930232558, 'money': 1231410000, 'volume': 8600}
+2023-11-03 13:49:03.353 INFO quote_impl.py:40: decison: code: 600985.SH, op:1, pred_y:0
+2023-11-03 13:49:03.353 INFO quote_impl.py:43: buy: 600985.SH
+2023-11-03 13:50:01.517 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135000, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.877562326869803, 'money': 15795600000, 'volume': 72200}
+2023-11-03 13:50:01.517 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:50:01.989 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135000, 'open_price': 159.11, 'high_price': 159.11, 'low_price': 159.11, 'close_price': 159.11, 'vwap': 158.94624022743426, 'money': 11181868000, 'volume': 7035}
+2023-11-03 13:50:01.989 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:50:03.352 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135000, 'open_price': 14.32, 'high_price': 14.32, 'low_price': 14.32, 'close_price': 14.32, 'vwap': 14.315818181818182, 'money': 1574740000, 'volume': 11000}
+2023-11-03 13:50:03.352 INFO quote_impl.py:40: decison: code: 600985.SH, op:1, pred_y:0.9013192675131253
+2023-11-03 13:50:03.352 INFO quote_impl.py:43: buy: 600985.SH
+2023-11-03 13:50:04.424 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135000, 'open_price': 32.48, 'high_price': 32.48, 'low_price': 32.48, 'close_price': 32.48, 'vwap': 32.47, 'money': 519520000, 'volume': 1600}
+2023-11-03 13:50:04.424 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:51:00.350 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135100, 'open_price': 14.3, 'high_price': 14.3, 'low_price': 14.3, 'close_price': 14.3, 'vwap': 14.31425925925926, 'money': 3091880000, 'volume': 21600}
+2023-11-03 13:51:00.350 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:51:01.270 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135100, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.87837555886736, 'money': 14680390000, 'volume': 67100}
+2023-11-03 13:51:01.270 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:51:01.419 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135100, 'open_price': 32.49, 'high_price': 32.49, 'low_price': 32.49, 'close_price': 32.49, 'vwap': 32.49235294117647, 'money': 2209480000, 'volume': 6800}
+2023-11-03 13:51:01.420 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:51:01.989 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135100, 'open_price': 159.37, 'high_price': 159.37, 'low_price': 159.37, 'close_price': 159.37, 'vwap': 159.20455610124668, 'money': 8428289200, 'volume': 5294}
+2023-11-03 13:51:01.989 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:52:00.350 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135200, 'open_price': 14.31, 'high_price': 14.31, 'low_price': 14.31, 'close_price': 14.31, 'vwap': 14.315964285714287, 'money': 4008470000, 'volume': 28000}
+2023-11-03 13:52:00.350 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:52:01.280 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135200, 'open_price': 21.86, 'high_price': 21.86, 'low_price': 21.86, 'close_price': 21.86, 'vwap': 21.873417613938173, 'money': 20589448000, 'volume': 94130}
+2023-11-03 13:52:01.280 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:52:01.994 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135200, 'open_price': 158.96, 'high_price': 158.96, 'low_price': 158.96, 'close_price': 158.96, 'vwap': 158.9916941418899, 'money': 10801895700, 'volume': 6794}
+2023-11-03 13:52:01.994 INFO quote_impl.py:40: decison: code: 688536.SH, op:1, pred_y:0
+2023-11-03 13:52:01.994 INFO quote_impl.py:43: buy: 688536.SH
+2023-11-03 13:52:04.431 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135200, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.47, 'money': 32470000, 'volume': 100}
+2023-11-03 13:52:04.431 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:53:00.345 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135300, 'open_price': 14.34, 'high_price': 14.34, 'low_price': 14.34, 'close_price': 14.34, 'vwap': 14.320748936170212, 'money': 11442278400, 'volume': 79900}
+2023-11-03 13:53:00.345 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:53:01.272 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135300, 'open_price': 21.87, 'high_price': 21.87, 'low_price': 21.87, 'close_price': 21.87, 'vwap': 21.864324970131424, 'money': 18300440000, 'volume': 83700}
+2023-11-03 13:53:01.272 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:53:02.043 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135300, 'open_price': 158.9, 'high_price': 158.9, 'low_price': 158.9, 'close_price': 158.9, 'vwap': 158.93049120042028, 'money': 6050483800, 'volume': 3807}
+2023-11-03 13:53:02.043 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0.3434517927045835
+2023-11-03 13:53:19.397 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135300, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.46454545454545, 'money': 357110000, 'volume': 1100}
+2023-11-03 13:53:19.397 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:54:00.343 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135400, 'open_price': 14.34, 'high_price': 14.34, 'low_price': 14.34, 'close_price': 14.34, 'vwap': 14.338466257668712, 'money': 2337170000, 'volume': 16300}
+2023-11-03 13:54:00.343 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:54:01.287 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135400, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.866989247311828, 'money': 10168150000, 'volume': 46500}
+2023-11-03 13:54:01.288 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:54:01.391 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135400, 'open_price': 32.48, 'high_price': 32.48, 'low_price': 32.48, 'close_price': 32.48, 'vwap': 32.486, 'money': 487290000, 'volume': 1500}
+2023-11-03 13:54:01.391 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:54:02.086 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135400, 'open_price': 159.37, 'high_price': 159.37, 'low_price': 159.37, 'close_price': 159.37, 'vwap': 159.02938821954484, 'money': 11879495300, 'volume': 7470}
+2023-11-03 13:54:02.086 INFO quote_impl.py:40: decison: code: 688536.SH, op:1, pred_y:0.9167386301596513
+2023-11-03 13:54:02.086 INFO quote_impl.py:43: buy: 688536.SH
+2023-11-03 13:55:00.375 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135500, 'open_price': 14.35, 'high_price': 14.35, 'low_price': 14.35, 'close_price': 14.35, 'vwap': 14.3389417989418, 'money': 2710060000, 'volume': 18900}
+2023-11-03 13:55:00.375 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:55:01.273 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135500, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.871483979763912, 'money': 12969790000, 'volume': 59300}
+2023-11-03 13:55:01.273 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:55:01.377 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135500, 'open_price': 32.47, 'high_price': 32.47, 'low_price': 32.47, 'close_price': 32.47, 'vwap': 32.479, 'money': 324790000, 'volume': 1000}
+2023-11-03 13:55:01.377 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:55:01.988 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135500, 'open_price': 159.15, 'high_price': 159.15, 'low_price': 159.15, 'close_price': 159.15, 'vwap': 159.13857142857142, 'money': 2227940000, 'volume': 1400}
+2023-11-03 13:55:01.988 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:56:00.363 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135600, 'open_price': 14.35, 'high_price': 14.35, 'low_price': 14.35, 'close_price': 14.35, 'vwap': 14.3385875, 'money': 11470870000, 'volume': 80000}
+2023-11-03 13:56:00.363 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:56:01.311 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135600, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.875980392156862, 'money': 13388100000, 'volume': 61200}
+2023-11-03 13:56:01.311 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:56:01.398 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135600, 'open_price': 32.46, 'high_price': 32.46, 'low_price': 32.46, 'close_price': 32.46, 'vwap': 32.46545454545455, 'money': 1071360000, 'volume': 3300}
+2023-11-03 13:56:01.398 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:56:01.996 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135600, 'open_price': 159.1, 'high_price': 159.1, 'low_price': 159.1, 'close_price': 159.1, 'vwap': 159.23333333333332, 'money': 4299300000, 'volume': 2700}
+2023-11-03 13:56:01.996 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:57:00.366 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135700, 'open_price': 14.35, 'high_price': 14.35, 'low_price': 14.35, 'close_price': 14.35, 'vwap': 14.34816091954023, 'money': 2496580000, 'volume': 17400}
+2023-11-03 13:57:00.366 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:57:01.270 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135700, 'open_price': 21.9, 'high_price': 21.9, 'low_price': 21.9, 'close_price': 21.9, 'vwap': 21.881307948454502, 'money': 17676377000, 'volume': 80783}
+2023-11-03 13:57:01.270 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:57:02.040 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135700, 'open_price': 159.1, 'high_price': 159.1, 'low_price': 159.1, 'close_price': 159.1, 'vwap': 159.1369375, 'money': 3819286500, 'volume': 2400}
+2023-11-03 13:57:02.040 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:57:04.419 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135700, 'open_price': 32.49, 'high_price': 32.49, 'low_price': 32.49, 'close_price': 32.49, 'vwap': 32.48428571428572, 'money': 454780000, 'volume': 1400}
+2023-11-03 13:57:04.419 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 13:58:00.348 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135800, 'open_price': 14.36, 'high_price': 14.36, 'low_price': 14.36, 'close_price': 14.36, 'vwap': 14.345325779036829, 'money': 5063900000, 'volume': 35300}
+2023-11-03 13:58:00.348 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:58:01.320 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135800, 'open_price': 21.92, 'high_price': 21.92, 'low_price': 21.92, 'close_price': 21.92, 'vwap': 21.906785714285714, 'money': 7974070000, 'volume': 36400}
+2023-11-03 13:58:01.320 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 13:58:01.390 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135800, 'open_price': 32.43, 'high_price': 32.43, 'low_price': 32.43, 'close_price': 32.43, 'vwap': 32.4468, 'money': 811170000, 'volume': 2500}
+2023-11-03 13:58:01.390 INFO quote_impl.py:40: decison: code: 002294.SZ, op:1, pred_y:0
+2023-11-03 13:58:01.390 INFO quote_impl.py:43: buy: 002294.SZ
+2023-11-03 13:58:02.054 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135800, 'open_price': 159.12, 'high_price': 159.12, 'low_price': 159.12, 'close_price': 159.12, 'vwap': 159.12148898153663, 'money': 5343299600, 'volume': 3358}
+2023-11-03 13:58:02.054 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:59:00.347 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 135900, 'open_price': 14.37, 'high_price': 14.37, 'low_price': 14.37, 'close_price': 14.37, 'vwap': 14.362535211267605, 'money': 2039480000, 'volume': 14200}
+2023-11-03 13:59:00.347 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 13:59:01.303 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 135900, 'open_price': 21.92, 'high_price': 21.92, 'low_price': 21.92, 'close_price': 21.92, 'vwap': 21.91510460251046, 'money': 5237710000, 'volume': 23900}
+2023-11-03 13:59:01.303 INFO quote_impl.py:40: decison: code: 601136.SH, op:1, pred_y:0
+2023-11-03 13:59:01.303 INFO quote_impl.py:43: buy: 601136.SH
+2023-11-03 13:59:02.075 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 135900, 'open_price': 159.17, 'high_price': 159.17, 'low_price': 159.17, 'close_price': 159.17, 'vwap': 159.06674972677595, 'money': 29109215200, 'volume': 18300}
+2023-11-03 13:59:02.075 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 13:59:13.409 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 135900, 'open_price': 32.42, 'high_price': 32.42, 'low_price': 32.42, 'close_price': 32.42, 'vwap': 32.427, 'money': 648540000, 'volume': 2000}
+2023-11-03 13:59:13.409 INFO quote_impl.py:40: decison: code: 002294.SZ, op:-1, pred_y:0.12343175623370384
+2023-11-03 13:59:13.409 INFO quote_impl.py:48: sell: 002294.SZ
+2023-11-03 14:00:00.386 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140000, 'open_price': 14.38, 'high_price': 14.38, 'low_price': 14.38, 'close_price': 14.38, 'vwap': 14.36118, 'money': 7180590000, 'volume': 50000}
+2023-11-03 14:00:00.386 INFO quote_impl.py:40: decison: code: 600985.SH, op:-1, pred_y:0
+2023-11-03 14:00:00.386 INFO quote_impl.py:48: sell: 600985.SH
+2023-11-03 14:00:01.335 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140000, 'open_price': 21.91, 'high_price': 21.91, 'low_price': 21.91, 'close_price': 21.91, 'vwap': 21.905458015267175, 'money': 11478460000, 'volume': 52400}
+2023-11-03 14:00:01.335 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0.6100083033120568
+2023-11-03 14:00:01.421 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140000, 'open_price': 32.41, 'high_price': 32.41, 'low_price': 32.41, 'close_price': 32.41, 'vwap': 32.413823529411765, 'money': 1102070000, 'volume': 3400}
+2023-11-03 14:00:01.421 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:00:02.002 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140000, 'open_price': 159.22, 'high_price': 159.22, 'low_price': 159.22, 'close_price': 159.22, 'vwap': 159.09821163755186, 'money': 12659444700, 'volume': 7957}
+2023-11-03 14:00:02.002 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:01:00.425 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140100, 'open_price': 14.38, 'high_price': 14.38, 'low_price': 14.38, 'close_price': 14.38, 'vwap': 14.362885154061624, 'money': 5127550000, 'volume': 35700}
+2023-11-03 14:01:00.425 INFO quote_impl.py:40: decison: code: 600985.SH, op:1, pred_y:0.7067263430169772
+2023-11-03 14:01:00.425 INFO quote_impl.py:43: buy: 600985.SH
+2023-11-03 14:01:01.284 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140100, 'open_price': 21.91, 'high_price': 21.91, 'low_price': 21.91, 'close_price': 21.91, 'vwap': 21.910225806451614, 'money': 6792170000, 'volume': 31000}
+2023-11-03 14:01:01.284 INFO quote_impl.py:40: decison: code: 601136.SH, op:-1, pred_y:0.2849646937639322
+2023-11-03 14:01:01.284 INFO quote_impl.py:48: sell: 601136.SH
+2023-11-03 14:01:02.087 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140100, 'open_price': 159.5, 'high_price': 159.5, 'low_price': 159.5, 'close_price': 159.5, 'vwap': 159.42441185185186, 'money': 21522295600, 'volume': 13500}
+2023-11-03 14:01:02.087 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:01:07.433 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140100, 'open_price': 32.46, 'high_price': 32.46, 'low_price': 32.46, 'close_price': 32.46, 'vwap': 32.4121875, 'money': 1037190000, 'volume': 3200}
+2023-11-03 14:01:07.433 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:02:00.355 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140200, 'open_price': 14.39, 'high_price': 14.39, 'low_price': 14.39, 'close_price': 14.39, 'vwap': 14.3676375, 'money': 11494110000, 'volume': 80000}
+2023-11-03 14:02:00.355 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:02:01.303 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140200, 'open_price': 21.89, 'high_price': 21.89, 'low_price': 21.89, 'close_price': 21.89, 'vwap': 21.89887615948471, 'money': 13055453000, 'volume': 59617}
+2023-11-03 14:02:01.303 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:02:01.517 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140200, 'open_price': 32.42, 'high_price': 32.42, 'low_price': 32.42, 'close_price': 32.42, 'vwap': 32.41863636363637, 'money': 713210000, 'volume': 2200}
+2023-11-03 14:02:01.517 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:02:02.053 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140200, 'open_price': 159.48, 'high_price': 159.48, 'low_price': 159.48, 'close_price': 159.48, 'vwap': 159.49646719650926, 'money': 10234888300, 'volume': 6417}
+2023-11-03 14:02:02.053 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:03:00.396 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140300, 'open_price': 14.38, 'high_price': 14.38, 'low_price': 14.38, 'close_price': 14.38, 'vwap': 14.37659090909091, 'money': 2530280000, 'volume': 17600}
+2023-11-03 14:03:00.396 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:03:01.276 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140300, 'open_price': 21.87, 'high_price': 21.87, 'low_price': 21.87, 'close_price': 21.87, 'vwap': 21.87938202247191, 'money': 15578120000, 'volume': 71200}
+2023-11-03 14:03:01.276 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:03:01.387 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140300, 'open_price': 32.41, 'high_price': 32.41, 'low_price': 32.41, 'close_price': 32.41, 'vwap': 32.4178125, 'money': 1037370000, 'volume': 3200}
+2023-11-03 14:03:01.387 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:03:01.985 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140300, 'open_price': 159.38, 'high_price': 159.38, 'low_price': 159.38, 'close_price': 159.38, 'vwap': 159.37370277078085, 'money': 2530854400, 'volume': 1588}
+2023-11-03 14:03:01.985 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:04:01.283 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140400, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.873395445134577, 'money': 10564850000, 'volume': 48300}
+2023-11-03 14:04:01.283 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:04:01.407 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140400, 'open_price': 32.41, 'high_price': 32.41, 'low_price': 32.41, 'close_price': 32.41, 'vwap': 32.42055555555556, 'money': 583570000, 'volume': 1800}
+2023-11-03 14:04:01.407 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:04:02.025 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140400, 'open_price': 159.51, 'high_price': 159.51, 'low_price': 159.51, 'close_price': 159.51, 'vwap': 159.39098264442023, 'money': 19010562500, 'volume': 11927}
+2023-11-03 14:04:02.025 INFO quote_impl.py:40: decison: code: 688536.SH, op:-1, pred_y:0
+2023-11-03 14:04:02.025 INFO quote_impl.py:48: sell: 688536.SH
+2023-11-03 14:04:03.345 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140400, 'open_price': 14.37, 'high_price': 14.37, 'low_price': 14.37, 'close_price': 14.37, 'vwap': 14.370958904109589, 'money': 2098160000, 'volume': 14600}
+2023-11-03 14:04:03.345 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:05:00.347 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140500, 'open_price': 14.37, 'high_price': 14.37, 'low_price': 14.37, 'close_price': 14.37, 'vwap': 14.368385416666666, 'money': 2758730000, 'volume': 19200}
+2023-11-03 14:05:00.347 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:05:01.272 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140500, 'open_price': 21.88, 'high_price': 21.88, 'low_price': 21.88, 'close_price': 21.88, 'vwap': 21.8873851590106, 'money': 6194130000, 'volume': 28300}
+2023-11-03 14:05:01.272 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:05:01.381 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140500, 'open_price': 32.4, 'high_price': 32.4, 'low_price': 32.4, 'close_price': 32.4, 'vwap': 32.40871794871795, 'money': 11375460000, 'volume': 35100}
+2023-11-03 14:05:01.382 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:05:01.995 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140500, 'open_price': 159.66, 'high_price': 159.66, 'low_price': 159.66, 'close_price': 159.66, 'vwap': 159.74637173066222, 'money': 8611926900, 'volume': 5391}
+2023-11-03 14:05:01.995 INFO quote_impl.py:40: decison: code: 688536.SH, op:1, pred_y:0.715939764486892
+2023-11-03 14:05:01.995 INFO quote_impl.py:43: buy: 688536.SH
+2023-11-03 14:06:00.346 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140600, 'open_price': 14.37, 'high_price': 14.37, 'low_price': 14.37, 'close_price': 14.37, 'vwap': 14.363103448275861, 'money': 2499180000, 'volume': 17400}
+2023-11-03 14:06:00.346 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:06:01.422 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140600, 'open_price': 32.39, 'high_price': 32.39, 'low_price': 32.39, 'close_price': 32.39, 'vwap': 32.40133333333333, 'money': 486020000, 'volume': 1500}
+2023-11-03 14:06:01.422 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:06:01.589 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140600, 'open_price': 21.89, 'high_price': 21.89, 'low_price': 21.89, 'close_price': 21.89, 'vwap': 21.893875968992248, 'money': 14121550000, 'volume': 64500}
+2023-11-03 14:06:01.589 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:06:01.995 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140600, 'open_price': 159.89, 'high_price': 159.89, 'low_price': 159.89, 'close_price': 159.89, 'vwap': 159.7147342192691, 'money': 8653344300, 'volume': 5418}
+2023-11-03 14:06:01.995 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:07:01.272 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140700, 'open_price': 21.91, 'high_price': 21.91, 'low_price': 21.91, 'close_price': 21.91, 'vwap': 21.906857723577236, 'money': 53890870000, 'volume': 246000}
+2023-11-03 14:07:01.272 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:07:01.388 INFO quote_impl.py:39: tick: {'hjcode': '002294.SZ', 'date': 20231103, 'times': 140700, 'open_price': 32.4, 'high_price': 32.4, 'low_price': 32.4, 'close_price': 32.4, 'vwap': 32.380645161290325, 'money': 1003800000, 'volume': 3100}
+2023-11-03 14:07:01.388 INFO quote_impl.py:40: decison: code: 002294.SZ, op:0, pred_y:0
+2023-11-03 14:07:01.991 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140700, 'open_price': 159.7, 'high_price': 159.7, 'low_price': 159.7, 'close_price': 159.7, 'vwap': 159.76371288142536, 'money': 7801262100, 'volume': 4883}
+2023-11-03 14:07:01.991 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0
+2023-11-03 14:07:03.351 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140700, 'open_price': 14.37, 'high_price': 14.37, 'low_price': 14.37, 'close_price': 14.37, 'vwap': 14.369569892473118, 'money': 1336370000, 'volume': 9300}
+2023-11-03 14:07:03.352 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:08:00.347 INFO quote_impl.py:39: tick: {'hjcode': '600985.SH', 'date': 20231103, 'times': 140800, 'open_price': 14.38, 'high_price': 14.38, 'low_price': 14.38, 'close_price': 14.38, 'vwap': 14.37169934640523, 'money': 2198870000, 'volume': 15300}
+2023-11-03 14:08:00.347 INFO quote_impl.py:40: decison: code: 600985.SH, op:0, pred_y:0
+2023-11-03 14:08:01.271 INFO quote_impl.py:39: tick: {'hjcode': '601136.SH', 'date': 20231103, 'times': 140800, 'open_price': 21.95, 'high_price': 21.95, 'low_price': 21.95, 'close_price': 21.95, 'vwap': 21.91439393939394, 'money': 11570800000, 'volume': 52800}
+2023-11-03 14:08:01.271 INFO quote_impl.py:40: decison: code: 601136.SH, op:0, pred_y:0
+2023-11-03 14:08:02.022 INFO quote_impl.py:39: tick: {'hjcode': '688536.SH', 'date': 20231103, 'times': 140800, 'open_price': 159.88, 'high_price': 159.88, 'low_price': 159.88, 'close_price': 159.88, 'vwap': 159.8369839207406, 'money': 9841163100, 'volume': 6157}
+2023-11-03 14:08:02.022 INFO quote_impl.py:40: decison: code: 688536.SH, op:0, pred_y:0

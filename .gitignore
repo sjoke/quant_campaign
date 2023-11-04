@@ -6,3 +6,8 @@ origin_data
 __pycache__
 hklh_quote_api_py.tar
 hklh_quote_api_py/demo/origin_trades
+hklh_quote_api_py/demo/history_quote
+hklh_quote_api_py/demo/operation*
+hklh_quote_api_py/demo/quotes*
+hklh_quote_api_py/.DS_Store
+.DS_Store
