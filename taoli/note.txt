@@ -1,0 +1,30 @@
+nohup python -u taoli.py  --return_rate 20 --every_n_seconds 300 --is_lixing &
+买入过程：
+对于币本位: usdt买入现货；转移到合约，合约下1倍空单，赚差价
+对于币本位: usdt买入现货；转移到合约，合约下1倍空单，赚差价
+
+
+nohup python -u huice.py --symbol BTCUSDT >btc_cm_cq.log 2>&1 &
+nohup python -u huice.py --symbol ETHUSDT >eth.log 2>&1 &
+
+nohup python -u huice.py --day_diff 1000 --symbol BTCUSDT,ETHUSDT --q_type cq >coin_um_cq.log 2>&1 &
+nohup python -u huice.py --day_diff 1000 --symbol BTCUSDT,ETHUSDT --q_type nq >coin_um_nq.log 2>&1 &
+
+nohup python -u huice.py --day_diff 1000 --symbol BTCUSDT,ETHUSDT,ADAUSDT,LINKUSDT,DOTUSDT,XRPUSDT,LTCUSDT,BNBUSDT --q_type cq >coin_cm_cq.log 2>&1 &
+nohup python -u huice.py --day_diff 1000 --symbol BTCUSDT,ETHUSDT,ADAUSDT,LINKUSDT,DOTUSDT,XRPUSDT,LTCUSDT,BNBUSDT --q_type nq >coin_cm_nq.log 2>&1 &
+
+币安查季度合约历史k线：某天，计算对应的cq nq日期，然后拼接成symbol查询
+okx查季度合约历史k线：instid始终是最新的为交割季度合约，直接查
+
+币安
+U本位 交割合约
+2021-02-03 上线 BTC、ETH 当季交割合约
+2023-08-28 上线 BTC、ETH 次季交割合约
+
+币本位 交割合约
+大约2020-06-08 上线 BTC 当季交割合约
+大约2020-07-20 上线 ETH 当季交割合约
+同时还有另外7个币种(ADA,LINK,BCH,DOT,XRP,LTC,BNB)的当季币本位交割合约
+
+大约2023-07-24 上线 BTC、ETH 次季交割合约
+同时还有另外7个币种(ADA,LINK,BCH,DOT,XRP,LTC,BNB)的次季币本位交割合约
