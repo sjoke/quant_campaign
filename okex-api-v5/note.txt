@@ -1,0 +1,3 @@
+nohup python -u huice_taoli.py > out.log 2>&1 &
+
+ETH-USDT-240628, 收益: 4.04%, 年化9.46%, spot: 2171.42, future: 2259.23, remain_days: 156   20240121:10usdt
